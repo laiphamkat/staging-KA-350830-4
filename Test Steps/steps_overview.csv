@@ -27,7 +27,7 @@ step 9: Add visual checkpoint at Page_dvc-home_money-form1_money-form2",High
 step 2: At Page_contact_step1 click on input_contact_email
 step 3: At Page_contact_step1 input on input_contact_email
 step 4: At Page_contact_step1 click on button_contact_next --> navigate to Page_contact_step2
-step 5: Add visual checkpoint at Page_contact_step2",Medium
+step 5: Add visual checkpoint at Page_contact_step2",Low
 1,"step 1: Navigate to Page_home
 step 2: At Page_home click on button_start_flow_1 --> navigate to Page_dvc-login
 step 3: Add visual checkpoint at Page_dvc-login",Low
