@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_dvc-home",
+        "step 2: At Page_dvc-home click on button_money --> navigate to Page_dvc-home_money-form1",
+        "step 3: At Page_dvc-home_money-form1 click on input_search",
+        "step 4: At Page_dvc-home_money-form1 input on input_search",
+        "step 5: At Page_dvc-home_money-form1 click on button_next --> navigate to Page_dvc-home_money-form1_money-form2",
+        "step 6: At Page_dvc-home_money-form1_money-form2 click on input_text",
+        "step 7: At Page_dvc-home_money-form1_money-form2 input on input_text",
+        "step 8: At Page_dvc-home_money-form1_money-form2 click on button_online",
+        "step 9: Add visual checkpoint at Page_dvc-home_money-form1_money-form2"
+    ]
+}

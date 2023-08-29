@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_contact_step1",
+        "step 2: At Page_contact_step1 click on input_contact_email",
+        "step 3: At Page_contact_step1 input on input_contact_email",
+        "step 4: At Page_contact_step1 click on button_contact_next --> navigate to Page_contact_step2",
+        "step 5: Add visual checkpoint at Page_contact_step2"
+    ]
+}

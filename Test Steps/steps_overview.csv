@@ -1,0 +1,37 @@
+Flow ID,Test Steps,Flow Priority
+3,"step 1: Navigate to Page_dvc-home
+step 2: At Page_dvc-home click on button_tax --> navigate to Page_dvc-home_tax-form1
+step 3: At Page_dvc-home_tax-form1 click on input_combo_box_demo
+step 4: At Page_dvc-home_tax-form1 click on li_combo_box_demo_option_0
+step 5: At Page_dvc-home_tax-form1 click on button_tax_next --> navigate to Page_dvc-home_tax-form1_tax-form2
+step 6: At Page_dvc-home_tax-form1_tax-form2 click on input_name
+step 7: At Page_dvc-home_tax-form1_tax-form2 input on input_name
+step 8: At Page_dvc-home_tax-form1_tax-form2 click on input_name
+step 9: At Page_dvc-home_tax-form1_tax-form2 input on input_address
+step 10: At Page_dvc-home_tax-form1_tax-form2 click on input_name
+step 11: At Page_dvc-home_tax-form1_tax-form2 input on input_phone
+step 12: At Page_dvc-home_tax-form1_tax-form2 click on input_name
+step 13: At Page_dvc-home_tax-form1_tax-form2 input on input_email
+step 14: At Page_dvc-home_tax-form1_tax-form2 click on button_next --> navigate to Page_dvc-home_tax-form1_tax-form2_tax-form3
+step 15: Add visual checkpoint at Page_dvc-home_tax-form1_tax-form2_tax-form3",High
+2,"step 1: Navigate to Page_dvc-home
+step 2: At Page_dvc-home click on button_money --> navigate to Page_dvc-home_money-form1
+step 3: At Page_dvc-home_money-form1 click on input_search
+step 4: At Page_dvc-home_money-form1 input on input_search
+step 5: At Page_dvc-home_money-form1 click on button_next --> navigate to Page_dvc-home_money-form1_money-form2
+step 6: At Page_dvc-home_money-form1_money-form2 click on input_text
+step 7: At Page_dvc-home_money-form1_money-form2 input on input_text
+step 8: At Page_dvc-home_money-form1_money-form2 click on button_online
+step 9: Add visual checkpoint at Page_dvc-home_money-form1_money-form2",High
+4,"step 1: Navigate to Page_contact_step1
+step 2: At Page_contact_step1 click on input_contact_email
+step 3: At Page_contact_step1 input on input_contact_email
+step 4: At Page_contact_step1 click on button_contact_next --> navigate to Page_contact_step2
+step 5: Add visual checkpoint at Page_contact_step2",Medium
+1,"step 1: Navigate to Page_home
+step 2: At Page_home click on button_start_flow_1 --> navigate to Page_dvc-login
+step 3: Add visual checkpoint at Page_dvc-login",Low
+6,"step 1: Navigate to Page_contact_step3
+step 2: Add visual checkpoint at Page_contact_step3",Trivial
+5,"step 1: Navigate to Page_contact
+step 2: Add visual checkpoint at Page_contact",Trivial
